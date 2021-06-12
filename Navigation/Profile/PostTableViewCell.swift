@@ -7,11 +7,12 @@
 //
 
 import UIKit
+import StorageService
 
 class PostTableViewCell: UITableViewCell {
     
     
-    var postView: PostViewModel?
+     var postView: PostViewModel?
     
    static  var reuseID: String {
         return String(describing: PostTableViewCell.self)

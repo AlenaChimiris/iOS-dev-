@@ -6,6 +6,7 @@
 //  Copyright © 2020 Artem Novichkov. All rights reserved.
 
 import UIKit
+import StorageService
 
 class ProfileViewController: UIViewController {
     
