@@ -1,41 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
-   <Group
-      location = "group:/Users/alenachimiris/Documents/Navigation-2&#xa0;&#x2014; tableview_1/Navigation/StorageService"
-      name = "StorageService">
-      <Group
-         location = "group:StorageService.framework"
-         name = "StorageService.framework">
-         <Group
-            location = "group:_CodeSignature"
-            name = "_CodeSignature">
-            <FileRef
-               location = "group:CodeResources">
-            </FileRef>
-         </Group>
-         <FileRef
-            location = "group:StorageService">
-         </FileRef>
-         <Group
-            location = "group:Headers"
-            name = "Headers">
-            <FileRef
-               location = "group:StorageService.h">
-            </FileRef>
-         </Group>
-         <Group
-            location = "group:Modules"
-            name = "Modules">
-            <FileRef
-               location = "group:module.modulemap">
-            </FileRef>
-         </Group>
-         <FileRef
-            location = "group:Info.plist">
-         </FileRef>
-      </Group>
-   </Group>
    <FileRef
       location = "self:">
    </FileRef>
